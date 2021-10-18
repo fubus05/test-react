@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+.container {
+    overflow: hidden;
+}
+.continents{
+    padding: 0 0;
+}
+.continents ul{
+    list-style: none;
+}
+.continents ul li button{
+    color: black;
+    margin-bottom: 2px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background: white;
+    cursor: pointer;
+    width: 250px;
+    text-align: left;
+    font-family: 'Lato', sans-serif;
+}
